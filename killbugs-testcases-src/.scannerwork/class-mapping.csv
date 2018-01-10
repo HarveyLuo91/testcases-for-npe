@@ -12,8 +12,6 @@ java.npe.CheckForNullUses:13,src/main/java/java/npe/CheckForNullUses.java:13
 java.npe.ComparisonWithThis:12,src/main/java/java/npe/ComparisonWithThis.java:12
 java.npe.CorrectlyLocalizeWarning:20,src/main/java/java/npe/CorrectlyLocalizeWarning.java:20
 java.npe.CoupledNullness:10,src/main/java/java/npe/CoupledNullness.java:10
-java.npe.CoupledNullness:30,src/main/java/java/npe/CoupledNullness.java:30
-java.npe.CoupledNullness:40,src/main/java/java/npe/CoupledNullness.java:40
 java.npe.DoomedNullDereference:18,src/main/java/java/npe/DoomedNullDereference.java:18
 java.npe.DoomedNullDereference:26,src/main/java/java/npe/DoomedNullDereference.java:26
 java.npe.DoomedNullDereference:10,src/main/java/java/npe/DoomedNullDereference.java:10
@@ -135,7 +133,6 @@ java.npe.EclipseNullReferenceTestCases$Report172$X:4736,src/main/java/java/npe/E
 java.npe.EclipseNullReferenceTestCases$Report175$X:4785,src/main/java/java/npe/EclipseNullReferenceTestCases.java:4785
 java.npe.EclipseNullReferenceTestCases$Report176$X:4820,src/main/java/java/npe/EclipseNullReferenceTestCases.java:4820
 java.npe.EclipseNullReferenceTestCases$Report177$X:4834,src/main/java/java/npe/EclipseNullReferenceTestCases.java:4834
-java.npe.EclipseNullReferenceTestCases$Report177$X:4834,src/main/java/java/npe/EclipseNullReferenceTestCases.java:4834
 java.npe.EclipseNullReferenceTestCases$Report177$X:4837,src/main/java/java/npe/EclipseNullReferenceTestCases.java:4837
 java.npe.EclipseNullReferenceTestCases$Report179$X:4968,src/main/java/java/npe/EclipseNullReferenceTestCases.java:4968
 java.npe.EclipseNullReferenceTestCases$Report18$X:415,src/main/java/java/npe/EclipseNullReferenceTestCases.java:415
@@ -221,7 +218,7 @@ java.npe.FieldDereference:22,src/main/java/java/npe/FieldDereference.java:22
 java.npe.GuaranteedDerefInterproc:40,src/main/java/java/npe/GuaranteedDerefInterproc.java:40
 java.npe.GuaranteedDereference:66,src/main/java/java/npe/GuaranteedDereference.java:66
 java.npe.GuaranteedDereference:74,src/main/java/java/npe/GuaranteedDereference.java:74
-java.npe.GuaranteedDereference:22,src/main/java/java/npe/GuaranteedDereference.java:22
+java.npe.GuaranteedDereference:24,src/main/java/java/npe/GuaranteedDereference.java:24
 java.npe.GuaranteedDereference:38,src/main/java/java/npe/GuaranteedDereference.java:38
 java.npe.GuaranteedDereference:159,src/main/java/java/npe/GuaranteedDereference.java:159
 java.npe.GuaranteedDereference:11,src/main/java/java/npe/GuaranteedDereference.java:11
@@ -239,7 +236,7 @@ java.npe.GuaranteedDereferenceLocationReporting:44,src/main/java/java/npe/Guaran
 java.npe.GuaranteedDereferencesShouldBeReducedByPostDominatorAnalysis:16,src/main/java/java/npe/GuaranteedDereferencesShouldBeReducedByPostDominatorAnalysis.java:16
 java.npe.GuaranteedFieldDereference:79,src/main/java/java/npe/GuaranteedFieldDereference.java:79
 java.npe.GuaranteedFieldDereference:87,src/main/java/java/npe/GuaranteedFieldDereference.java:87
-java.npe.GuaranteedFieldDereference:35,src/main/java/java/npe/GuaranteedFieldDereference.java:35
+java.npe.GuaranteedFieldDereference:37,src/main/java/java/npe/GuaranteedFieldDereference.java:37
 java.npe.GuaranteedFieldDereference:51,src/main/java/java/npe/GuaranteedFieldDereference.java:51
 java.npe.GuaranteedFieldDereference:14,src/main/java/java/npe/GuaranteedFieldDereference.java:14
 java.npe.GuaranteedFieldDereference:172,src/main/java/java/npe/GuaranteedFieldDereference.java:172
